@@ -1,0 +1,10 @@
+{
+	"folders": [
+		{
+			"path": "../web ejercicio"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cute_persons_web"
+	}
+}
